@@ -109,3 +109,4 @@ Mapa do Campus
 ![Area de pastagem](https://user-images.githubusercontent.com/106028045/221900364-e9b86bee-cd17-42be-a0b5-98306e04ad26.jpg)
 ![Area de pastagem](https://user-images.githubusercontent.com/106028045/221900369-15a02367-3af3-49b2-afe6-c8e51556cbe9.jpg)
 ![Residencia estudantil](https://user-images.githubusercontent.com/106028045/221900373-5da4fd57-c44d-49b0-8575-509bd8bfcdb7.jpg)
+![Guarita de cima](https://github.com/Pedro-Valasco/TCC/assets/106028045/fffc29df-31d9-47d5-a388-d0990a95745a)
